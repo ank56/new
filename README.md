@@ -1,3 +1,3 @@
 # new
 intro to github
-my first commit
+my first commit.
